@@ -1,2 +1,2 @@
 # hello-world
-just trying
+just trying to learn how it works , tips/suggestions are respected
